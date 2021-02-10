@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://time2hack.com/:splat"
+  status = 200
+  force = true
